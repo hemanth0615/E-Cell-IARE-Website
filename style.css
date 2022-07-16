@@ -33,8 +33,7 @@ nav,#body1,#body2,#body3,#body4,#body5,#body6,#body7,#footer{
 #tag{
     text-align: center;
     height: 63px;
-    
-    padding-top: 200px;
+    padding-top: 150px;
     font-family: 'Poppins';
     font-style: normal;
     font-weight: 700;
@@ -54,6 +53,17 @@ height: 401px;
 }
 #tag_image:hover{
     width: 300px;
+}
+.social_links_hero_sec{
+    position: absolute;
+    right: 5%;
+    top: 70%;
+    display: flex;
+    flex-direction: column;
+    
+}
+.social_individual{
+    padding: 25%;
 }
 #body2{
     padding-bottom: 5%;
