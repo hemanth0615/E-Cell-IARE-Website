@@ -304,6 +304,10 @@ height: 401px;
 
     color: #FFFFFF;
 }
+.explore:hover{
+    background-color:#5033C3;
+    border: none;
+}
 #body7{
 
 }
@@ -325,14 +329,15 @@ height: 401px;
     padding-top: 5%;
     display: flex; 
     justify-content:space-between;
+    
 }
 #hello_box1{
     position: relative;
     width: 413px;
     height: 292px;
     left: 79px;
-    
-    background: yellow;
+    margin-right: 2%;
+    margin-left: 4%;
 }
 .body7_text{
     width: 305px;
@@ -359,14 +364,17 @@ height: 401px;
     width: 413px;
     height: 292px;
     left: 79px;    
-    background: blue;
+    margin-right: 2%;
 }
 #hello_box3{
     position: relative;
     width: 413px;
     height: 292px;
     left: 79px;
-    background: green;
+}
+#hello_box1:hover,#hello_box2:hover,#hello_box3:hover{
+    background: #5033C3;
+
 }
 #footer{
     padding-top: 5%;
