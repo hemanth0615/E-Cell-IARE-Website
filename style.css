@@ -2,9 +2,7 @@ nav,#body1,#body2,#body3,#body4,#body5,#body6,#body7,#footer{
     background-color: #030303;
     
 }
-.navbar{
-    padding-top: 10%;
-}
+
 #ecell_text{
     width: 97px;
     height: 19px;
@@ -466,6 +464,9 @@ height: 401px;
 }
 
 @media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
+    .navbar {
+            padding-top: 10%;
+        }
     #tag_image {
         margin-top: 10%;
     }
