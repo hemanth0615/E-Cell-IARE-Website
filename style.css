@@ -443,6 +443,9 @@ height: 401px;
 }
 
 @media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
+    #body7{
+        display: none;
+    }
     .navbar {
             padding-top: 10%;
         }
