@@ -583,14 +583,8 @@ height: 401px;
 
     }
     #pages_sec {
+        width: 25%;
         padding-top: 0%;
         margin-left: 55%;
-        text-decoration: none;
-    }
-
-    .pages {
-        width: 68px;
-        height: 24px;
-
     }
 }
