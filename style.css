@@ -441,7 +441,7 @@ height: 401px;
 
 @media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
     #tag{
-        padding-top: 7%;
+        padding-top: 8%;
     }
     #body7{
         display: none;
@@ -449,9 +449,14 @@ height: 401px;
     .navbar {
             padding-top: 10%;
         }
+    #body1{
+        padding-bottom: 0%;
+        margin-bottom: 0%;
+    }
     #tag_image {
         margin-top: 0%;
         padding-top: 0%;
+        margin-bottom: 0%;
     }
     #about{
         padding-left: 10%;
