@@ -249,9 +249,6 @@ height: 401px;
     margin-top: 5%;
     /* background-color: yellow; */
 }
-#body6{
-    padding-bottom: 5%;
-}
 .team_text{
     width: 50px;
     height: 27px;
@@ -443,6 +440,9 @@ height: 401px;
 }
 
 @media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
+    #tag{
+        padding-top: 7%;
+    }
     #body7{
         display: none;
     }
@@ -450,7 +450,8 @@ height: 401px;
             padding-top: 10%;
         }
     #tag_image {
-        margin-top: 10%;
+        margin-top: 0%;
+        padding-top: 0%;
     }
     #about{
         padding-left: 10%;
@@ -575,6 +576,19 @@ height: 401px;
             left: 79px;
             margin-right: 2%;
             margin-left: 4%;
+        }
+        #pic_box{
+            margin-left: 15%;
+        }
+        .teammempic{
+            width: 25%;
+            padding-bottom: 5%;
+        }
+        .pic_2{
+            margin-left: 25%;
+        }
+        .pic_3{
+            margin-left: 50%;
         }
         
 }
